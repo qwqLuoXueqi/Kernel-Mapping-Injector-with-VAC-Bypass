@@ -1,2 +1,1 @@
-# Kernel-Mapping-Injector-with-VAC-Bypass
-This is an injector made exclusively for CS2. It uses kernel-mode mapping to inject into CS2 and can effectively bypass VAC detection.
+This is a universal injector that uses kernel-level techniques to inject into CS2. At the moment, I don’t want to open-source this product — sorry. It can effectively bypass VAC and inject into CS2.
